@@ -16,6 +16,7 @@ node app.js
 make sure you have node installed already
 
 from your terminal cd into the project folder
+
 run
 ```
 npm install
