@@ -16,11 +16,12 @@ node app.js
 make sure you have node installed already
 
 from your terminal cd into the project folder
+run
 ```
-run npm install
+npm install
 ```
 ```
-run node app.js
+node app.js
 ```
 the app will be running on http://localhost:8000
 
